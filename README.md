@@ -44,9 +44,6 @@ El proyecto consiste en una aplicación que permite a los usuarios ingresar nomb
 ## **5. Demostración y acceso al proyecto**
 Se puede acceder a la aplicación a través del siguiente [enlace]().
 
-### Versión 1.00
-![demo](https://github.com/user-attachments/assets/eb63912f-d421-4f15-904c-984dd5450a9d)
-
 ## **6. Tecnologías utilizadas**
 
 - HTML
