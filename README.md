@@ -41,8 +41,8 @@ El proyecto consiste en una aplicación que permite a los usuarios ingresar nomb
 - `Botón sortear:` Inicia deshabilitado. Se habilita al agregar un nombre.
 - `Volver a jugar:` Se añade la posibilidad de volver a jugar.
 
-## **5. Demostración y acceso al proyecto**
-Se puede acceder a la aplicación a través del siguiente [(https://linkinshadow.github.io/ProyectoAmigoSecreto/)].
+## **5. Acceso al proyecto**
+Se puede acceder al proyecto a través del siguiente [(https://linkinshadow.github.io/ProyectoAmigoSecreto/)].
 
 ## **6. Tecnologías utilizadas**
 
@@ -50,4 +50,5 @@ Se puede acceder a la aplicación a través del siguiente [(https://linkinshadow
 - CSS
 - JavaScript
 ## **7.  Autor.**
+Luis Rey Solis Pascacio.
 [GitHub] (https://github.com/LinkinShadow)
