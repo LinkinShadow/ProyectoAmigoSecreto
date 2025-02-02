@@ -42,7 +42,7 @@ El proyecto consiste en una aplicación que permite a los usuarios ingresar nomb
 - `Volver a jugar:` Se añade la posibilidad de volver a jugar.
 
 ## **5. Demostración y acceso al proyecto**
-Se puede acceder a la aplicación a través del siguiente [enlace]().
+Se puede acceder a la aplicación a través del siguiente [(https://linkinshadow.github.io/ProyectoAmigoSecreto/)].
 
 ## **6. Tecnologías utilizadas**
 
